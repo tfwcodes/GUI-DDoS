@@ -8,7 +8,7 @@ import os
 
 root = Tk()
 root.configure(bg="blue")
-root.iconbitmap("anonymous.ico")
+root.iconbitmap("anonymous_OvV_icon.ico")
 root.title("DDoS")
 
 
